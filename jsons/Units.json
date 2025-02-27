@@ -10,7 +10,7 @@
 		"range": 2,
 		"cost": 10,
 		"requiredTech": "Masonry",
-		"requiredResource": "Bronze",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "PewPew"
 	}
