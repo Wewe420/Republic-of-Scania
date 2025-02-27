@@ -28,7 +28,7 @@
 		"tradeRequest": "Coin.",
 
 		"outerColor": [255,255,255],
-		"innerColor": [0,0,50],
+		"innerColor": [255,255,255],
 		"unique": "Empire enters a [1000]-turn Golden Age",
 		"cities": ["Malmö", "Helsingborg", "Lund", "Karlskrona", "Kristianstad", "Landskrona", "Trelleborg"]
 	}
