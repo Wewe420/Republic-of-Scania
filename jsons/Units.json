@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Goons",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Scanians",
 		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
+		"strength": 100,
+		"rangedStrength": 100,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"cost": 10,
+		"requiredTech": "Masonry",
+		"requiredResource": "Bronze",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
