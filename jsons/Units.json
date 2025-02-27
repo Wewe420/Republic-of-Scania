@@ -12,6 +12,6 @@
 		"requiredTech": "Masonry",
 		"requiredResource": "Bronze",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "PewPew"
 	}
 ]
