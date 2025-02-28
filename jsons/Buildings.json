@@ -1,13 +1,12 @@
 [
 	{
-		"name": "Superbunker",
-		"replaces": "Military Base",
+		"name": "Superstatue",
 		"uniqueTo": "Bruhvinadia",
 		"cost": 10,
-		"happiness": 100,
-		"culture": 100,
-		"science": 100,
-		"maintenance": 96,
+		"happiness": 10,
+		"culture": 10,
+		"science": 10,
+		"maintenance": 9,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Barracks",
 		"requiredTech": "Masonry"
@@ -19,7 +18,7 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"uniques": ["Empire enters a [100]-turn Golden Age"],
 		"requiredTech": "Engineering"
 	}
 ]
