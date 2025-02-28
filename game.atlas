@@ -4,14 +4,14 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Superbunker
+BuildingIcons/Superstatue
   rotate: false
   xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/HolographicMeatloaf
+BuildingIcons/Meatloaf
   rotate: false
   xy: 220, 4
   size: 100, 100
